@@ -10,20 +10,19 @@ We can view, add, delete, update and query data in a database using JDBC.
 
 ## Requirements
 
-*gson-2.9.0.jar*
-*javax.servlet-api-3.1.0.jar*
-*mysql-connector-java-8.0.26.jar*
+***gson-2.9.0.jar***
+***javax.servlet-api-3.1.0.jar***
+***mysql-connector-java-8.0.26.jar***
 
 We can find all the .jar files in the following directory:
 `WebContent -> WEB-INF -> lib`
 
 ## File Structure
 
-  *Backend - JDBC Servalate - Java
-    *src
-      *com.pojo
-        *Analytics.java -> This is the pojo class that will be used to store the getter and setter of Analytic Data Chart graph. Which we use in frontend analytic view.
-        *Highcharts.java -> This is the pojo class that will be used to store the getter and setter of all the varables.
+  **Backend - JDBC Servalate - Java**
+  - src
+    - com.pojo
+      -  Analytics.java -> This is the pojo class that will be used to store the getter and setter of Analytic   Data Chart graph. Which we use in frontend analytic view.
+      -  Highcharts.java -> This is the pojo class that will be used to store the getter and setter of all the varables.
       
-      *demo.java -> This is the main class that will be used to run the program.
-        *All the java classes have specific names to understand the functionality.
+    -  demo.java -> This is the main class that will be used to run the program. All the java classes have specific names to understand the functionality.
