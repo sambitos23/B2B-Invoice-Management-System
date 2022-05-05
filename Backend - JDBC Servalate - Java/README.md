@@ -10,11 +10,12 @@ We can view, add, delete, update and query data in a database using JDBC.
 
 ## Requirements
 
-***gson-2.9.0.jar***
-***javax.servlet-api-3.1.0.jar***
-***mysql-connector-java-8.0.26.jar***
+- ***gson-2.9.0.jar***
+- ***javax.servlet-api-3.1.0.jar***
+- ***mysql-connector-java-8.0.26.jar***
 
 We can find all the .jar files in the following directory:
+
 `WebContent -> WEB-INF -> lib`
 
 ## File Structure
