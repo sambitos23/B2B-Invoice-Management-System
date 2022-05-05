@@ -8,6 +8,14 @@ This is our backend component that will be used to connect to the database. Also
 
 We can view, add, delete, update and query data in a database using JDBC.
 
+## How to run
+
+- ### Install Java
+- ### Install eclipse-jee
+- ### Install apache-tomcat-8.5.61
+
+- Add the JDBC component to the project and Run the tomcat server check all the Apis in postman.
+
 ## Requirements
 
 - ***gson-2.9.0.jar***
