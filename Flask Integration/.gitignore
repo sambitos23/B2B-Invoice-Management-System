@@ -1,0 +1,15 @@
+# Created by https://www.gitignore.io/api/r,python,visualstudiocode
+# Edit at https://www.gitignore.io/?templates=r,python,visualstudiocode
+
+### Python ###
+# Byte-compiled / optimized / DLL files
+__pycache__/
+.idea
+
+
+# Distribution / packaging
+.Python
+.ipynb_checkpoints
+
+# pyenv
+.python-version
